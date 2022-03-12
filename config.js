@@ -91,7 +91,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'file:///Users/benjaminmoscona/Downloads/delhiAir.jpg',
+            image: './delhiAir.jpg',
             description: 'The primary negative externality created by field burning is significant declines in air quality' +
                 ' across North India and in the city of New Delhi. Institutional distrust and corruption have made it ' +
                 'challenging to prevent burning through legislation or government programs (Shehrawat 2020). <br><hr> Image credit: The Wire India, 2020',

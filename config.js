@@ -21,7 +21,7 @@ var config = {
                 ' is utilized by rice farmers to quickly clear and prepare fields for the sowing of a new season of crop,' +
                 ' but it creates significant air pollution. Air pollution exposure in South Asia is responsible for losses' +
                 ' of ~58 million disability adjusted life years (DALYs) per year (Sharma, Khanna, and Ghosh 2019). <br><br><hr>' +
-                '<br><br><span style = "opacity:1"><img src="file:///Users/benjaminmoscona/Downloads/legendRiceHa.png" alt="" align="bottom" style="width:400px;height:150px;"></span><br><br><span style = "color:darkgrey;">(Scroll &#x2913; to explore)</span>',
+                '<br><br><span style = "opacity:1"><img src="file:./legendRiceHa.png" alt="" align="bottom" style="width:400px;height:150px;"></span><br><br><span style = "color:darkgrey;">(Scroll &#x2913; to explore)</span>',
             location: {
                 center: { lon: 11.98698, lat: 33.91185 },
                 zoom: 2.2,

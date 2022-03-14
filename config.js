@@ -21,7 +21,7 @@ var config = {
                 ' is utilized by rice farmers to quickly clear and prepare fields for the sowing of a new season of crop,' +
                 ' but it creates significant air pollution. Air pollution exposure in South Asia is responsible for losses' +
                 ' of ~58 million disability adjusted life years (DALYs) per year (Sharma, Khanna, and Ghosh 2019). <br><br><hr>' +
-                '<br><br><span style = "opacity:1"><img src='./legendRiceHa.png' alt="" align="bottom" style="width:400px;height:150px;"></span><br><br><span style = "color:darkgrey;">(Scroll &#x2913; to explore)</span>',
+                '<br><br><span style = "opacity:1"><img src='./images/legendRiceHa.png' alt="" align="bottom" style="width:400px;height:150px;"></span><br><br><span style = "color:darkgrey;">(Scroll &#x2913; to explore)</span>',
             location: {
                 center: { lon: 11.98698, lat: 33.91185 },
                 zoom: 2.2,
@@ -91,7 +91,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: './delhiAir.jpg',
+            image: './images/delhiAir.jpg',
             description: 'The primary negative externality created by field burning is significant declines in air quality' +
                 ' across North India and in the city of New Delhi. Institutional distrust and corruption have made it ' +
                 'challenging to prevent burning through legislation or government programs (Shehrawat 2020). <br><hr> Image credit: The Wire India, 2020',
@@ -122,7 +122,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'file:///Users/benjaminmoscona/Downloads/airpollutioncities.png',
+            image: './images/airpollutioncities.png',
             description: 'Rice stubble burning presents three major problems: air pollution, soil nutrient depletion, ' +
                 'and erosion. Despite bans on crop residue burning in China and North India, the practice' +
                 ' is still widespread (Shi et al. 2014).<br><hr> Figure credit: Brookings, 2020<br>' +
@@ -155,7 +155,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'file:///Users/benjaminmoscona/Downloads/cropBurnField.jpeg',
+            image: './images/cropBurnField.jpeg',
             description: 'The biogeochemical implications of rice stubble burning can be framed as ' +
                 'changes to the carbon, nitrogen, and hydrologic cycles (for brevity, I do not explore the phosphorus' +
                 ' and sulphur cycles). Additionally, particulate matter is emitted into the atmosphere through burning and' +
@@ -352,7 +352,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'file:///Users/benjaminmoscona/Downloads/Payments_for_Ecosystem_Services_(PES).png',
+            image: './images/Payments_for_Ecosystem_Services_(PES).png',
             description: 'PES methods aim to incentivize farmers not to burn their fields by paying them to not produce bad' +
                 ' air quality and other negative externalities. This may work better than banning crop burning because PES' +
                 ' programs provide a positive incentive, rather than a solely punitive one. Some difficulties associated with' +
@@ -389,7 +389,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'file:///Users/benjaminmoscona/Downloads/National_Agro_Happy_Seeder-2.jpg',
+            image: './images/National_Agro_Happy_Seeder-2.jpg',
             description: 'Subsidies can help allay capital cost barriers that prevent farmers from buying newer harvesting' +
                 ' equipment. In 2018, the Indian government provided a no-burn equipment subsidy so that farmers would be more' +
                 ' likely to purchase tools like the Happy Seeder, which mechanically mulches rice straw and sows wheat into farmers’' +

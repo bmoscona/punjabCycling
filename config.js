@@ -170,17 +170,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The carbon cycle is altered because carbon taken up from the atmosphere by rice plants or ' +
-                'stored in soil is not returned to the soil in as high a quantity after burning, especially after repeated' +
-                ' burns, resulting in a loss of organic soil carbon (Lohan et al. 2018). However, the deposition of ash and ' +
-                'the resulting increase in pH and addition of certain micronutrients can mitigate some of these losses in soil ' +
-                'carbon (Chungu et al. 2020). Unfortunately, some ash may be lost to the wind or through leaching, reducing this liming' +
-                ' effect (de Neergaard, Magid, and Mertz 2008). Some of the carbon species that are emitted by crop burning are CO2, CO, ' +
-                'Non-methane hydrocarbons (NMHCs), and volatile organic compounds (VOCs). CO2 emissions contribute to worsening the effects' +
-                ' of climate change, while CO is toxic to humans and other animals. Certain VOCs from smoke can also be toxic to humans and ' +
-                'other animals. Black carbon from smoke significantly contributes to elevated PM2.5 levels in North India and Delhi, ' +
-                'which has an average PM2.5 level of 98 µg/m3, ten times that of World Health Organization (WHO) air quality guidelines' +
-                ' (Bhuvaneshwari, Hettiarachchi, and Meegoda 2019). <br><hr> <b>Here is a map of tropospheric CO concentrations in November 2019 </b> <br>' +
+            description: 'The carbon cycle is altered because carbon taken up by rice plants or stored in soil is only partially returned to the soil after burning, especially after repeated burns, resulting in a loss of organic soil carbon (Lohan et al. 2018). However, the deposition of ash and the resulting increase in pH and addition of certain micronutrients can mitigate some of these losses in soil carbon (Chungu et al. 2020). Unfortunately, some ash may be lost to the wind or through leaching, reducing this liming effect (de Neergaard, Magid, and Mertz 2008). Some of the carbon species that are emitted by crop burning are CO2, CO, non-methane hydrocarbons (NMHCs), and volatile organic compounds (VOCs). CO2 emissions contribute to worsening the effects of climate change, while CO is toxic to humans and other animals. Certain VOCs from smoke can also be toxic to humans and other animals. Black carbon from smoke significantly contributes to elevated PM2.5 levels in North India and Delhi, which has an average PM2.5 level of 98 µg/m3, ten times that of World Health Organization (WHO) air quality guidelines (Bhuvaneshwari, Hettiarachchi, and Meegoda 2019). <br><hr> <b>Here is a map of tropospheric CO concentrations in November 2019 </b> <br>' +
                 'Data: Copernicus Sentinel-5P',
             location: {
                     center: { lon: 76.47170, lat: 29.22105 },
@@ -210,18 +200,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'Crop burning alters the nitrogen cycle because soil, fertilizer, and plant nitrogen can ' +
-                'easily enter the atmosphere when burned. Lost nitrogen must be replaced with more fertilizer, ' +
-                'increasing farmers’ reliance on external inputs. Crop residue burning emits NH3 and NOx into the ' +
-                'atmosphere through volatilization. Gaseous ammonia is extremely toxic and nitric oxides form smog and ' +
-                'acid rain. Consequently, acid rain harms soil health by aiding the leaching of other nutrients and ' +
-                'chemicals from the soil. There might also be excess deposition of nitrogen in soils from acid rain, ' +
-                'potentially increasing the risk of eutrophication. There may also be less nitrification in the soil ' +
-                'post-burning because burning can selectively kill nitrifying bacteria, which are particularly sensitive' +
-                ' to heat (Covington and Sackett 1986). This may mitigate the release of more nitrogen taken up by denitrifying' +
-                ' bacteria as nitrate in the form of N2 to the atmosphere and increase the amount of nitrogen found as ammonium' +
-                ' in soils. Lastly, fire temperature is crucial in determining the abundance of nitrogen species present in the soil,' +
-                ' nitrogen released to the atmosphere, and leached nitrogen (MacDonald and Huffman 2004) (Covington and Sackett 1986).' +
+            description: 'Crop burning alters the nitrogen cycle because soil, fertilizer, and plant nitrogen can easily enter the atmosphere when burned. Lost nitrogen must be replaced with more fertilizer, increasing farmers’ reliance on external inputs. Crop residue burning emits NH3 and NOx into the atmosphere through volatilization. Gaseous ammonia is extremely toxic and nitric oxides form smog and acid rain. Consequently, acid rain harms soil health by aiding the leaching of other nutrients and chemicals from the soil. There may also be less nitrification in the soil post-burning because burning can selectively kill nitrifying bacteria, which are particularly sensitive to heat (Covington and Sackett 1986). This may mitigate the release of more nitrogen taken up by denitrifying bacteria as nitrate in the form of N2 to the atmosphere and increase the amount of nitrogen found as ammonium in soils. However, these effects are likely short-lived because these bacteria are resilient and repopulate fields quickly. Next, we will explore how crop burning affects the hydrologic cycle.' +
                 '  <br><hr> <b> Here is a plot of nitrate concentrations in groundwater wells in Punjab. Dots exceeding 10 mg/L of Nitrate (represented by <span style = \'color:red;\'>&#9679;</span>),' +
                 ' are above the EPA maximum contaminant level (MCL), while <span style = \'color:blue;\'>&#9679;</span> dots represent wells below the MCL. </b> <br> Data: India WRIS, 2022' ,
             location: {
@@ -252,17 +231,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'Crop burning impacts the hydrologic cycle primarily by increasing water repellency,' +
-                ' decreasing soil structure stability, and increasing soil pH. Field burning can increase water' +
-                ' repellency, which slows wetting or infiltration of water into soil (MacDonald and Huffman 2004).' +
-                ' This results in a higher potential for overland flow, and consequently erosion. The intensity and' +
-                ' duration of fires are key properties for determining the impact of burning on soils. Fire temperatures' +
-                ' between 200-250 ºC can result in the gasification of plant lipids, which then cover soil particles (Certini 2005).' +
-                ' Rice stubble burning may increase soil temperature to up to ~600 ºC, and the hydrophobic plant lipids may disintegrate' +
-                ' completely (Ladatko and Ladatko 2016) (Certini 2005). Furthermore, this repellent layer builds up over multiple fires an' +
-                ' may last up to six years (McDonald and Huffman 2004). Soil structure is also compromised by fires because vaporization of water' +
-                ' in the soil leads to compaction, decreasing the porosity of the soil (Spencer, Farmer, and Jury 1982). Finally, soil pH' +
-                ' increases immediately after a fire because of liming from the deposition of ash.' +
+            description: 'Crop burning impacts the hydrologic cycle primarily by increasing soils’ water repellency, decreasing soil structure stability, and increasing soil pH. Field burning may increase water repellency, which slows wetting or infiltration of water into soil (MacDonald and Huffman 2004). This results in a higher potential for overland flow, and consequently erosion. The intensity and duration of fires are key properties for determining the impact of burning on soils. Fire temperatures between 200-250 ºC can result in the gasification of plant lipids, which then cover soil particles (Certini 2005). Rice stubble burning may increase soil temperature to up to ~600 ºC, and the hydrophobic plant lipids may disintegrate completely, potentially decreasing water repellency (Ladatko and Ladatko 2016; Certini 2005). Repellent layers build up over multiple fires and may last up to six years (McDonald and Huffman 2004). Soil structure is also compromised by fires because vaporization of water in the soil leads to compaction, decreasing the porosity of the soil (Spencer, Farmer, and Jury 1982). Finally, soil pH increases immediately after a fire because of liming from the deposition of ash, which returns phosphorus to the soil.' +
                 '  <br><hr> <b>Here we visualize surface runoff in North India in November 2019, along with major rivers. Much of this runoff is co-located near rice farms and waterways that flow into Delhi. </b> <br> ' +
                 'Data: ERA5-Land monthly averaged data, 2022' ,
             location: {
@@ -309,10 +278,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'Instead of burning, farmers have options for incorporating and retaining crop residues on their' +
-                ' fields, like stubble mulching and no-till (Turmel et al. 2015).  Retaining crop residues prevents the loss' +
-                ' of nutrients, biodiversity loss, and soil compaction associated with burning.  These techniques can also help' +
-                ' farmers prevent erosion and increases in overland flow (Wu et al. 2020).<br><br>' +
+            description: 'Instead of burning, farmers have options for incorporating and retaining crop residues on their fields, like stubble mulching and no-till (Turmel et al. 2015).  Retaining crop residues prevents the loss of nutrients, biodiversity loss, and soil compaction associated with burning.  These techniques can also help farmers prevent erosion and increases in overland flow (Wu et al. 2020).<br><br>' +
                 'Other than outright bans on burning, some of the solutions being proposed to combat rice stubble burning are' +
                 ' Payment for Ecosystem Services (PES) and subsidies for better harvesting machinery. ' ,
             location: {
@@ -343,14 +309,7 @@ var config = {
             hidden: false,
             title: '',
             image: './images/Payments_for_Ecosystem_Services_(PES).png',
-            description: 'PES methods aim to incentivize farmers not to burn their fields by paying them to not produce bad' +
-                ' air quality and other negative externalities. This may work better than banning crop burning because PES' +
-                ' programs provide a positive incentive, rather than a solely punitive one. Some difficulties associated with' +
-                ' PES programs are verifying compliance, which may be done on the ground or with satellite imagery, and overcoming' +
-                ' institutional distrust, which may be achieved by paying farmers upfront. Thus, PES solutions that might appear' +
-                ' to work in countries with more trusted institutions are not necessarily representative of regions like North India.' +
-                ' PES programs might appear more expensive on paper than other solutions because they require careful design and large' +
-                ' capital outlays, making them less appealing to taxpayers. <hr> ' +
+            description: 'PES methods aim to incentivize farmers not to burn their fields by paying them to not produce bad air quality and other negative externalities. This may work better than banning crop burning because PES programs provide a positive incentive, rather than a solely punitive one, which has proven difficult to enforce for political reasons. Some difficulties associated with PES programs are verifying compliance, which may be done on the ground or with satellite imagery, and overcoming institutional distrust, which may be achieved by paying farmers upfront (Jack, Jayachandran, Kala and Pande 2022). Thus, PES solutions that might appear to work in countries with more trusted institutions are not necessarily representative of regions like North India. PES programs might appear more expensive on paper than other solutions because they require careful design and large capital outlays, making them less appealing to taxpayers.  <hr> ' +
                 'Image credit: Bosco Liso <a href="https://commons.wikimedia.org/w/index.php?curid=102384160">Link</a>' ,
             location: {
                     center: { lon: 77.10628, lat: 29.51633 },
@@ -380,11 +339,7 @@ var config = {
             hidden: false,
             title: '',
             image: './images/National_Agro_Happy_Seeder-2.jpg',
-            description: 'Subsidies can help allay capital cost barriers that prevent farmers from buying newer harvesting' +
-                ' equipment. In 2018, the Indian government provided a no-burn equipment subsidy so that farmers would be more' +
-                ' likely to purchase tools like the Happy Seeder, which mechanically mulches rice straw and sows wheat into farmers’' +
-                ' fields (Shyamsundar et al. 2019). Because culture is such an important determinant of farmer behavior, subsidies' +
-                ' should be paired with educational campaigns that promote adoption of these new techniques and technologies. <hr>' +
+            description: 'Subsidies can help allay capital cost barriers that prevent farmers from buying newer harvesting equipment. In 2018, the Indian government provided a no-burn equipment subsidy so that farmers would be more likely to purchase tools like the Happy Seeder, which mechanically mulches rice straw and sows wheat into farmers’ fields (Shyamsundar et al. 2019). However, because burning remains a cheaper alternative, and fines are not enforced, take up and use of these equipment has been disappointing. <hr>' +
                 'Image credit: <a href= "https://commons.wikimedia.org/wiki/File:National_Agro_Happy_Seeder.jpg">Link <a/>' ,
             location: {
                     center: { lon: 75.53992, lat: 30.67743 },
@@ -414,12 +369,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The biogeochemical effects of rice stubble burning are complex and dependent on the frequency of burning,' +
-                ' soil composition, the availability of water, and other environmental factors. However, reducing rice stubble burning' +
-                ' will save lives by reducing air pollution and will also help limit excess fertilizer usage. Techniques like mulching and' +
-                ' no-till may also help farmers improve their fields’ long-term health and resilience. To transition to these improved' +
-                ' techniques, the government of India should continue promoting educational campaigns for farmers, developing PES programs,' +
-                ' and supporting farmers’ transitions with subsidies. <hr>' +
+            description: 'The biogeochemical effects of rice stubble burning are complex and dependent on the frequency of burning, soil composition, the availability of water, and other environmental factors. However, reducing rice stubble burning will save lives by reducing air pollution and will also help limit excess fertilizer usage. Techniques like mulching and no-till may also help farmers improve their fields’ long-term health and resilience. To transition to these improved techniques, the government of India should continue promoting educational campaigns for farmers, developing PES programs, and supporting farmers’ transitions with subsidies. <hr>' +
                 '<b> This map shows the population density of North India </b><br>' +
                 'Areas in <span style = \'color:red;\'>&#9679;</span> have a population density of >2,000 per sq km. <br> ' +
                 'Areas in <span style = \'color:lightseagreen;\'>&#9679;</span> have a population density of ~500 per sq km. <br> Delhi has a population density of over 11,000 per sq km <br>' +

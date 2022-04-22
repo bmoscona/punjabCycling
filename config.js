@@ -6,7 +6,7 @@ var config = {
     theme: 'light',
     use3dTerrain: true,
     title: 'Rice Stubble Burning and Biogeochemical Cycling in North India',
-    subtitle: 'by Benjamin Moscona',
+    subtitle: 'by Ben Moscona',
     byline: '',
     footer: 'created by Benjamin Moscona',
     chapters: [
@@ -16,11 +16,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'Rice stubble burning is common across India, China, and Southeast Asia' +
-                ' in regions where paddy rice is grown. Rice stubble burning, a form of crop residue burning,' +
-                ' is utilized by rice farmers to quickly clear and prepare fields for the sowing of a new season of crop,' +
-                ' but it creates significant air pollution. Air pollution exposure in South Asia is responsible for losses' +
-                ' of ~58 million disability adjusted life years (DALYs) per year (Sharma, Khanna, and Ghosh 2019). <br><br><hr>' +
+            description: 'Rice stubble burning is common across India, China, and Southeast Asia in regions where paddy rice is grown. Rice stubble burning, a form of crop residue burning, is utilized by rice farmers to quickly clear and prepare fields for the sowing of a new season of crop, but it creates significant air pollution. Air pollution exposure in South Asia is responsible for losses of ~58 million disability adjusted life years (DALYs) per year (Sharma, Khanna, and Ghosh 2019). <br><br><hr>' +
                 '<br><br><span style = "opacity:1"><img src="./images/legendRiceHa.png" alt="" align="bottom" style="width:400px;height:150px;"></span><br><br><span style = "color:darkgrey;">(Scroll &#x2913; to explore)</span>',
             location: {
                 center: { lon: 11.98698, lat: 33.91185 },
@@ -58,12 +54,8 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'In the North Indian states of Punjab, Haryana, and Uttar Pradesh, fires are used to manage' +
-                ' these residues because labor prices for manual clearing are high, increases in yield have also increased' +
-                ' the amount of rice stubble left to clear, there is a very quick transition window to sow wheat before the' +
-                ' monsoon season, increases in mechanization of harvesting have occurred without the adoption of newer' +
-                ' harvesters that clear stubble, and rice crop residues are not a valuable end-product (Venkatramanan et al. 2021).  <hr>' +
-                '<b> Here is a heatmap of fires in North India in November 2020:</b><br> Data: NASA FIRMS, SUOMI VIIRS C2',
+            description: 'In the North Indian states of Punjab, Haryana, and Uttar Pradesh, fires are used to manage these residues because: <br> (i) farmers have little time between rice harvest and wheat sowing to clear their fields <br> (ii) the use of combine harvesters leaves 8-12 inches of residue after the harvest <br> (iii) rising yields have increased the amount of rice stubble left to clear <br> (iv) the cost of using labor for manual clearing is high <br>(v) rice crop residues are not a valuable end-product (Venkatramanan et al. 2021). <hr>' +
+                '<b> This map shows fire hotspots in North India in November 2020:</b><br> Data: NASA FIRMS, SUOMI VIIRS C2',
             location: {
                 center: { lon: 77.79121, lat: 29.21278 },
                 zoom: 6.65,
@@ -92,9 +84,7 @@ var config = {
             hidden: false,
             title: '',
             image: './images/delhiAir.jpg',
-            description: 'The primary negative externality created by field burning is significant declines in air quality' +
-                ' across North India and in the city of New Delhi. Institutional distrust and corruption have made it ' +
-                'challenging to prevent burning through legislation or government programs (Shehrawat 2020). <br><hr> Image credit: The Wire India, 2020',
+            description: 'The primary negative externality created by field burning is significant declines in air quality across North India, including in the city of New Delhi. Institutional distrust and corruption have made it challenging to prevent burning through legislation or government programs (Shehrawat 2020). <br><hr> Image credit: The Wire India, 2020',
             location: {
                 center: { lon: 77.23598, lat: 28.63259 },
                 zoom: 13.98,

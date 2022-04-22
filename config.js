@@ -6,7 +6,7 @@ var config = {
     theme: 'light',
     use3dTerrain: true,
     title: 'Rice Stubble Burning and Biogeochemical Cycling in North India',
-    subtitle: 'by Ben Moscona',
+    subtitle: 'by Ben Moscona: bmoscona-remnitz@ucsb.edu',
     byline: '',
     footer: 'created by Ben Moscona',
     chapters: [

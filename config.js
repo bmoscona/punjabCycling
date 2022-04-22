@@ -8,7 +8,7 @@ var config = {
     title: 'Rice Stubble Burning and Biogeochemical Cycling in North India',
     subtitle: 'by Ben Moscona',
     byline: '',
-    footer: 'created by Benjamin Moscona',
+    footer: 'created by Ben Moscona',
     chapters: [
         {
             id: 'intro',

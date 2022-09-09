@@ -5,7 +5,7 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: true,
-    title: 'Rice Stubble Burning and Biogeochemical Cycling in North India',
+    title: 'Impacts and Solutions to Rice Stubble Burning in North India',
     subtitle: 'by Ben Moscona',
     byline: '',
     footer: 'created by <a href="https://www.linkedin.com/in/ben-moscona/">Ben Moscona</a>',
@@ -369,7 +369,9 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The biogeochemical effects of rice stubble burning are complex and dependent on the frequency of burning, soil composition, the availability of water, and other environmental factors. However, reducing rice stubble burning will save lives by reducing air pollution and will also help limit excess fertilizer usage. Techniques like mulching and no-till may also help farmers improve their fields’ long-term health and resilience. To transition to these improved techniques, the government of India should continue promoting educational campaigns for farmers, developing PES programs, and supporting farmers’ transitions with subsidies. <hr>' +
+            description: 'Reducing rice stubble and other agricultural residue burning is a challenging problem where implementing known solutions can save lives by reducing air pollution and aid the environment by limiting excess fertilizer usage. The biogeochemical effects of rice stubble burning are complex and dependent on the frequency of burning, soil composition, the availability of water, and other environmental factors. Techniques like mulching and no-till may also help farmers improve their fields’ long-term health and resilience. Experimental field research on reducing crop burning (Jack, Jayachandran, Kala and Pande 2022) is informing the Indian government’s use of Conditional Cash Transfers (CCTs), provision of field equipment, and educational campaigns for smallholder farmers. Location-specific research that considers local markets, costs to farmers, and economic forces is essential to developing effective and efficient policy. These factors (and broader macroeconomic conditions) change over time, so continued research is necessary to understand the practice of crop residue burning as it evolves through time.
+
+ <hr>' +
                 '<b> This map shows the population density of North India </b><br>' +
                 'Areas in <span style = \'color:red;\'>&#9679;</span> have a population density of >2,000 per sq km. <br> ' +
                 'Areas in <span style = \'color:lightseagreen;\'>&#9679;</span> have a population density of ~500 per sq km. <br> Delhi has a population density of over 11,000 per sq km <br>' +

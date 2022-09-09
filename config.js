@@ -5,7 +5,7 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: true,
-    title: 'Impacts and Solutions to Rice Stubble Burning in North India',
+    title: 'Rice Stubble Burning in North India: Impacts and Solutions',
     subtitle: 'by Ben Moscona',
     byline: '',
     footer: 'created by <a href="https://www.linkedin.com/in/ben-moscona/">Ben Moscona</a>',

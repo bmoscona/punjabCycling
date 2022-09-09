@@ -6,7 +6,7 @@ var config = {
     theme: 'light',
     use3dTerrain: true,
     title: 'Rice Stubble Burning in North India: Impacts and Solutions',
-    subtitle: 'by Ben Moscona, emLab (Environmental Markets Lab, UC Santa Barbara)',
+    subtitle: 'by Ben Moscona (Environmental Markets Lab, UC Santa Barbara)',
     byline: '',
     footer: 'created by <a href="https://www.linkedin.com/in/ben-moscona/">Ben Moscona</a>',
     chapters: [
